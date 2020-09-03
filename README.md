@@ -53,3 +53,5 @@ Or using an `NSAttributedString`.
             let url = Bundle.main.url(forResource: "Video", withExtension: "mov")!
             let label = VideoLabel(attributedText: attributedText, url: url)
 
+## More
+For more information about how it works, you can read about it [here](https://medium.com/@hayderado/bring-your-titles-to-life-in-ios-d427bb3311b).
